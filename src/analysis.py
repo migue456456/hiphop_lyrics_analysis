@@ -1,4 +1,4 @@
-from .categories import categories
+from categories import categories
 
 class Analysis:
     '''
