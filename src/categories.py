@@ -1,4 +1,3 @@
-# categories.py
 
 beat = {"beat", "fight"}
 weapon = {"pistol","pistols","ak","gat", "gats", "gun", "guns", "shot", "shots", "gunshot", "gunshots"}
